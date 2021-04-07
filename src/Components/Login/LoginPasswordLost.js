@@ -1,7 +1,7 @@
 import React from 'react';
 
-const LoginForm = () => {
+const LoginPasswordLost = () => {
   return <div></div>;
 };
 
-export default LoginForm;
+export default LoginPasswordLost;
